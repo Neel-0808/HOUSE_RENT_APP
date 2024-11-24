@@ -49,7 +49,8 @@ The Home Rental Web App is a platform developed using the MERN stack (MongoDB, E
 
 ## Setup and Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-repo/House-Rental.git
-   cd House-Rental
+### 1. Clone the Repository
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/your-repo/House-Rental.git
+cd House-Rental
